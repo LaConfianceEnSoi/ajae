@@ -1,5 +1,5 @@
 ## 내일은국민가수 애청자들의 영원한 '아재'이자 나이는 숫자일 뿐이라는 교훈을 주시는 젊은 포크 장인 박창근 님을 테마로 한 수박게임입니다.
-
+![싱어송라이터 포크장인 박창근 수박게임](./res/share.jpg)
 ## la kɔ̃fjɑ̃s가 만든 수박게임 시리즈 손진욱 편
 - [기본모드](https://laconfianceensoi.github.io/nooktermelon/)
 - [물리적 특성을 조금 변형한 이른바 '눅공모드'](https://laconfiance.github.io/nooktermelon)
